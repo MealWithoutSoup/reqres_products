@@ -15,9 +15,7 @@ spec:
         app: "product"
     spec: 
       containers: 
-        - 
-          name: "product"
-          image: "ungacr.azurecr.io/product:latest"
+        - name: "product"
+          image: "a071047.azurecr.io/product:latest"
           ports: 
-            - 
-              containerPort: 80
+            - containerPort: 80
