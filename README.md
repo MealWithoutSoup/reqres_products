@@ -6,4 +6,4 @@ http POST http://localhost:8085/products name=TENT price=3000 stock=10
 
 http POST http://localhost:8085/product < productData.json 
 
-# 만약 상품 추천 기능이 추가된다면
+### 한 번 더 태스트
